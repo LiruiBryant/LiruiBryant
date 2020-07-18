@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi 我是李睿，工程师一枚
 
 <!--
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LiruiBryant)](https://github.com/anuraghazra/github-readme-stats)
+[![Earyant's github stats](https://github-readme-stats.vercel.app/api?username=LiruiBryant)](https://github.com/anuraghazra/github-readme-stats)
